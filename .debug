@@ -1,0 +1,7 @@
+<ExtensionList>
+    <Extension Id="com.freedomdam.assetlink-utility">
+       <HostList>
+           <Host Name="IDSN" Port="8088"/>
+        </HostList>
+    </Extension>
+</ExtensionList>

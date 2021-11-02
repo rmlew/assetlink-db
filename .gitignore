@@ -1,0 +1,7 @@
+**/CSXS
+**/host
+client/aem-config.js
+client/CSInterface.js
+client/index.html
+client/jquery-3.5.1.min.js
+client/style.css
